@@ -1,0 +1,25 @@
+{
+  "name": "webpack-sprite-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zycFran/webpack-sprite-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zycFran/webpack-sprite-loader/issues"
+  },
+  "homepage": "https://github.com/zycFran/webpack-sprite-loader#readme",
+  "dependencies": {
+    "loader-runner": "^3.1.0",
+    "loader-utils": "^1.4.0",
+    "spritesmith": "^3.4.0"
+  }
+}
